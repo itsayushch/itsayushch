@@ -4,7 +4,7 @@
 	🎂 Birthday - 30th Oct, 2006
 	👤 Profession - Student
 	
-### &ldquo; I am an aspiring web developer. &rdquo;
+### &ldquo; # Be a developer to aspire another developer &rdquo;
 
 I am a 13 year old self-taught programmer currently learning and writing Node JS, ReactJS, HTML/CSS/JS, and Java.
 
