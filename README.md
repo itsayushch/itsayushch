@@ -1,9 +1,7 @@
 # Hi there I am Ayush CH👋
 
 	🌐 Location - Darjeeling, WB, India.
-	<br>
 	🎂 Birthday - 30th Oct, 2006
-	<br>
 	👤 Profession - Student
 	
 ### &ldquo; I am an aspiring web developer. &rdquo;
