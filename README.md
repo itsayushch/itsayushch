@@ -14,8 +14,9 @@ I am a 13 year old self-taught programmer currently learning and writing Node JS
 </center>
 
 ## 📧 Contact me
-
-![Discord](https://img.shields.io/badge/Discord-Ayush%233192-B1A7F0?style=for-the-badge&logo=discord&link=https://discord.gg/sY57ftY)
+<a href='https://discord.gg/sY57ftY'>
+	<img src="https://img.shields.io/badge/Discord-Ayush%233192-B1A7F0?style=for-the-badge&logo=discord&link=https://discord.gg/sY57ftY" alt='Discord - Ayush#3192'>
+</a>
 
 
 
