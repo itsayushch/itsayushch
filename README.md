@@ -7,11 +7,11 @@
 ### &ldquo; # Be a developer to aspire another developer &rdquo;
 
 I am a 13 year old self-taught programmer currently learning and writing Node JS, ReactJS, HTML/CSS/JS, and Java.
-<center>
+<div align="center">
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsayushch&theme=calm&layout=compact)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=itsayushch&theme=calm&layout=compact&count_private=true)
-</center>
+</div>
 
 ## 📧 Contact me
 <a href='https://discord.gg/sY57ftY'>
