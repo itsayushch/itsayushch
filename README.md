@@ -6,7 +6,7 @@
 	
 ### &ldquo; # Be a developer to aspire another developer &rdquo;
 
-I am a 13 year old self-taught programmer currently learning and writing Node JS, ReactJS, HTML/CSS/JS, and Java.
+I am a 14 year old self-taught programmer currently learning and writing Node JS, ReactJS, HTML/CSS/JS, and Java.
 <div align="center">
 	
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsayushch&theme=calm&layout=compact)
