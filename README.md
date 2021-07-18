@@ -23,7 +23,7 @@ I am a 14 year old self-taught programmer currently learning and writing Node JS
 	<img src="https://img.shields.io/badge/Mail-itsayushch%40gmail.com-B1A7F0?style=for-the-badge&logo=gmail&link=mailto:itsayushch@gmail.com" alt='Mail'>
 </a>
 <a href='https://www.instagram.com/itsayushch' target="_blank">
-	<img src="https://img.shields.io/badge/Instagram-ayushkr.me-B1A7F0?style=for-the-badge&logo=instagram&link=https://www.instagram.com/itsayushch" alt='Insta'>
+	<img src="https://img.shields.io/badge/Instagram-itsayushch-B1A7F0?style=for-the-badge&logo=instagram&link=https://www.instagram.com/itsayushch" alt='Insta'>
 </a>
 <a href='https://www.facebook.com/ayushkr004' target="_blank">
 	<img src="https://img.shields.io/badge/Facebook-Ayush%20Chowdhury-B1A7F0?style=for-the-badge&logo=facebook&link=https://www.facebook.com/ayushkr004" alt='FaceBook'>
