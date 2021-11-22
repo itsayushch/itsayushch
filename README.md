@@ -4,9 +4,7 @@
 🎂 DOB - 30th Oct, 2006 <br />
 👤 Profession - Student <br />
 	
-### &ldquo; # Be a developer to aspire another developer &rdquo;
-
-I am a 14 year old self-taught programmer currently learning and writing Node JS, ReactJS, HTML/CSS/JS, and Java.
+Hi, I am a 15 year old self-taught programmer and a full-stack developer currently learning and writing Node JS, ReactJS, HTML/CSS/JS, Typescript, Next.JS, Java.
 <div align="center">
 	
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsayushch&theme=calm&layout=compact)
