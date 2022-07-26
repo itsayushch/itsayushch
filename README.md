@@ -1,32 +1,6 @@
-# 👋 Hi there, I am Ayush CH
+# 👋 Hi there, I am Ayus
 
-🌐 Location - Darjeeling, WB, India. <br />
-🎂 DOB - 30th Oct, 2006 <br />
-👤 Profession - Student <br />
-	
-Hi, I am a 15 year old self-taught programmer and a full-stack developer currently learning and writing Node JS, ReactJS, HTML/CSS/JS, Typescript, Next.JS, Java.
-<div align="center">
-	
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsayushch&theme=calm&layout=compact)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=itsayushch&theme=calm&layout=compact&count_private=true)
 </div>
-
-## 📧 Contact me
-<div align="center">
-<a href='https://discord.gg/sY57ftY' target="_blank">
-	<img src="https://img.shields.io/badge/Discord-Ayush%235234-B1A7F0?style=for-the-badge&logo=discord&link=https://discord.gg/sY57ftY" alt='Discord - Ayush#5234'>
-</a>
-<a href='mailto:ayush.chowdhury2004@gmail.com' target="_blank">
-	<img src="https://img.shields.io/badge/Mail-itsayushch%40gmail.com-B1A7F0?style=for-the-badge&logo=gmail&link=mailto:itsayushch@gmail.com" alt='Mail'>
-</a>
-<a href='https://www.instagram.com/itsayushch' target="_blank">
-	<img src="https://img.shields.io/badge/Instagram-itsayushch-B1A7F0?style=for-the-badge&logo=instagram&link=https://www.instagram.com/itsayushch" alt='Insta'>
-</a>
-<a href='https://www.facebook.com/ayushkr004' target="_blank">
-	<img src="https://img.shields.io/badge/Facebook-Ayush%20Chowdhury-B1A7F0?style=for-the-badge&logo=facebook&link=https://www.facebook.com/ayushkr004" alt='FaceBook'>
-</a>
-</div>
-
-
-
