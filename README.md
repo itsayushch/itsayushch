@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Ayus
+# 👋 Hi there, I am Ayush.
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsayushch&theme=calm&layout=compact)
 
