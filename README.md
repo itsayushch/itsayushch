@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsayushch" alt="itsayushch" /></a> </p>
-
 - 🔭 I’m currently working on [Musico 2.0](https://github.com/itsayushch/musico-2.0)
 
 - 🌱 I’m currently learning **React Native, Mobile Development**
