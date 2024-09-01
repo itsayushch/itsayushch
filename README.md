@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi, I'm Ayush👋</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 🔭 I’m currently working on [Musico 2.0](https://github.com/itsayushch/musico-2.0)
