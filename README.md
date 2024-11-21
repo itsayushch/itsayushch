@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ayush👋</h1>
+<h1 style="border-bottom: 0;">Hi, I'm Ayush👋</h1>
 <h3>A passionate full-stack developer from India</h3>
 
 ## 🌐 Socials:
